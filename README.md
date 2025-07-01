@@ -13,20 +13,20 @@ This project demonstrates your ability to:
 ---
 
 ## 🗂️ Repository Structure
-sql-challenge/
-├── EmployeeSQL/
-│   ├── data/
-│   │   ├── departments.csv
-│   │   ├── dept_emp.csv
-│   │   ├── dept_manager.csv
-│   │   ├── employees.csv
-│   │   ├── salaries.csv
-│   │   └── titles.csv
-│   ├── schema.sql              # SQL script for table creation
-│   ├── queries.sql             # SQL script for analysis queries
-│   ├── erd.png                 # Entity Relationship Diagram
-│   └── README.md
----
+   sql-challenge/
+   ├── EmployeeSQL/
+   │   ├── data/
+   │   │   ├── departments.csv
+   │   │   ├── dept_emp.csv
+   │   │   ├── dept_manager.csv
+   │   │   ├── employees.csv
+   │   │   ├── salaries.csv
+   │   │   └── titles.csv
+   │   ├── schema.sql              # SQL script for table creation
+   │   ├── queries.sql             # SQL script for analysis queries
+   │   ├── erd.png                 # Entity Relationship Diagram
+   │   └── README.md
+   ---
 
 ## 🛠️ Tools & Technologies
 
